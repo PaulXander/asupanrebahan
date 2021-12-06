@@ -59,7 +59,7 @@ python3 main.py
 * `API_HASH` Dapatkan API HASH di web my.telegram.org.
 * `API_ID` Dapatkan APP ID di web my.telegram.org
 * `TG_BOT_TOKEN` Dapatkan dari t.me/BotFather
-* `OWNER` Masukan Username Telegram untuk Owner BOT
+
 * `OWNER_ID` Masukan User ID Telegram untuk Owner BOT
 * `CHANNEL_ID` Masukan ID Channel Untuk [Channel Database] contoh:- -100xxxxxxxx
 * `ADMINS` Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]
